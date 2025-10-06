@@ -39,9 +39,8 @@ To master problem patterns, strengthen data structures & algorithms intuition, a
 ---
 
 ## Connect
-- **GitHub:** [@kushal-sachdeva]([https://github.com/kushal-sachdeva](https://github.com/Kushal-Sachdeva78))  
 - **LinkedIn:** [Kushal Sachdeva](www.linkedin.com/in/kushal-sachdeva-2a7609356)  
-- **LeetCode:** [LeetCode Profile]([your-leetcode-link-here](https://leetcode.com/u/Kushal-Sachdeva/))
+- **LeetCode:** [LeetCode Profile]([[your-leetcode-link-here](https://leetcode.com/u/Kushal-Sachdeva/)](https://www.linkedin.com/in/kushal-sachdeva-2a7609356/))
 
 ---
 
