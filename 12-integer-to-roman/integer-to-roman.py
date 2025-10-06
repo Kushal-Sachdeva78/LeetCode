@@ -21,8 +21,7 @@ class Solution:
         return roman
 
 
-# Example usage:
 s = Solution()
-print(s.intToRoman(3749))  # MMMDCCXLIX
-print(s.intToRoman(58))    # LVIII
-print(s.intToRoman(1994))  # MCMXCIV
+print(s.intToRoman(3749))  
+print(s.intToRoman(58))   
+print(s.intToRoman(1994))  
