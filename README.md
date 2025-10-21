@@ -40,7 +40,7 @@ To master problem patterns, strengthen data structures & algorithms intuition, a
 
 ## Connect
 - **LinkedIn:** [Kushal Sachdeva](www.linkedin.com/in/kushal-sachdeva-2a7609356)  
-- **LeetCode:** [LeetCode Profile]([[your-leetcode-link-here](https://leetcode.com/u/Kushal-Sachdeva/)](https://www.linkedin.com/in/kushal-sachdeva-2a7609356/))
+- **LeetCode:** [LeetCode Profile](https://leetcode.com/u/Kushal-Sachdeva/)
 
 ---
 
