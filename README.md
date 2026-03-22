@@ -57,7 +57,3 @@ To master problem patterns, strengthen data structures & algorithms intuition, a
 
 ## Connect
 - **LeetCode:** [https://leetcode.com/u/Kushal-Sachdeva/](https://leetcode.com/u/Kushal-Sachdeva/)
-
----
-
-Star the repo if you’re on the same grind — consistency beats luck.
