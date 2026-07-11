@@ -57,3 +57,7 @@ To master problem patterns, strengthen data structures & algorithms intuition, a
 
 ## Connect
 - **LeetCode:** [https://leetcode.com/u/Kushal-Sachdeva/](https://leetcode.com/u/Kushal-Sachdeva/)
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
