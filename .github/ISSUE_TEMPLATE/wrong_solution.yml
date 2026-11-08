@@ -1,0 +1,33 @@
+name: "Wrong or failing solution"
+description: "A solution gives a wrong answer, times out or fails to compile"
+title: "[wrong] "
+labels: ["bug"]
+body:
+  - type: input
+    id: problem
+    attributes:
+      label: "Problem"
+      placeholder: "1 Two Sum"
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: "Language"
+      options:
+        - "C++"
+        - "Python"
+    validations:
+      required: true
+  - type: textarea
+    id: input
+    attributes:
+      label: "Failing input"
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: "Expected and actual output"
+    validations:
+      required: true

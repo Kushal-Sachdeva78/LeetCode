@@ -1,0 +1,18 @@
+name: "Suggestion"
+description: "An alternative approach, a clearer write-up or a missing edge case"
+title: "[idea] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: problem
+    attributes:
+      label: "Problem"
+      placeholder: "1 Two Sum"
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: "What would you change, and why?"
+    validations:
+      required: true
