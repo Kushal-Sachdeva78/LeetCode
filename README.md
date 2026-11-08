@@ -1,6 +1,9 @@
 # LeetCode Solutions
 
-Solutions to 56 LeetCode problems in C++ and Python: problems 1 through 50 complete, plus a set of harder problems, all with LeetCode-compatible `Solution` signatures ready to submit.
+56 LeetCode solutions in C++ and Python, one folder per problem. For interview prep.
+```bash
+git clone https://github.com/Kushal-Sachdeva78/LeetCode
+```
 
 [![C++](https://img.shields.io/badge/C%2B%2B-49%20solutions-blue)](https://github.com/Kushal-Sachdeva78/LeetCode/search?l=c%2B%2B)
 [![Python](https://img.shields.io/badge/Python-12%20solutions-yellow)](https://github.com/Kushal-Sachdeva78/LeetCode/search?l=python)
